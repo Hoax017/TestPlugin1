@@ -1,5 +1,5 @@
 {
-  "main": "TestPlugin1",
-  "name": "Test Plugin 1",
-  "author": "Hoax"
+  "main" : "fr.aymericdev.plugin.PluginTest1",
+  "name" : "PluginTest1",
+  "author" : "Hoax"
 }
